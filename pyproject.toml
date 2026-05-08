@@ -26,8 +26,8 @@ dependencies = [
 
 # Optional deps — tidak wajib untuk Termux
 [project.optional-dependencies]
-search = ["ddgs>=9.14.1"]
-full = ["ddgs>=9.14.1"]
+search = ["ddgs>=9.14.2"]
+full = ["ddgs>=9.14.2"]
 
 [project.scripts]
 shadowbot = "shadowbot.cli:main"
